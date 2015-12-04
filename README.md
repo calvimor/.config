@@ -15,4 +15,3 @@ the following are my customized vim settings:
 * `.vimrc.local`
 * `.vimrc.bundles.local`
 
-![](https://i.cloudup.com/mEsFjAhXUb-3000x3000.png)
